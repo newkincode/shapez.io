@@ -93,7 +93,7 @@ mainMenu:
         title: Active Mods
         warningPuzzleDLC: 퍼즐 DLC는 모드와 호환되지 않습니다. DLC 플레이 전 모든 모드를 비활성화 해주세요.
     playingFullVersion: You are now playing the full version!
-    logout: Logout
+    logout: 로그아웃
     noActiveSavegames: No active savegames found - Click play to start a new game!
     playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
     playFullVersionStandalone: You can now also play the full version in your Browser!
